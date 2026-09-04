@@ -1,0 +1,102 @@
+// 1. Basic HTML Page
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sample Web Page</title>
+</head>
+<body>
+    <h1>Welcome to Web Programming</h1>
+    <p>This is a static HTML page.</p>
+</body>
+</html>
+
+// 2. HTML Form with GET/POST Methods
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Form Example</title>
+</head>
+<body>
+    <form action="submit.aspx" method="POST">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
+
+// 3. ASP.NET Web Forms (using Web Controls)
+<%@ Page Language="C#" AutoEventWireup="true" %>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Web Controls Example</title>
+</head>
+<body>
+    <form runat="server">
+        <asp:TextBox ID="txtName" runat="server"></asp:TextBox>
+        <asp:Button ID="btnSubmit" runat="server" Text="Submit" OnClick="btnSubmit_Click" />
+        <asp:Label ID="lblMessage" runat="server" />
+    </form>
+</body>
+</html>
+
+// 4. ASP.NET Page Class Example (IsPostBack, Request, Response)
+public partial class Submit : System.Web.UI.Page
+{
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        if (IsPostBack)
+        {
+            string name = Request.Form["name"];
+            Response.Write("Hello, " + name);
+        }
+    }
+}
+
+// 5. Navigation Between Pages
+// Using Response.Redirect
+Response.Redirect("nextpage.aspx");
+
+// Using Server.Transfer (Keeps the original URL)
+Server.Transfer("nextpage.aspx");
+
+// 6. Simple ASP.NET MVC Example
+// Model
+public class Student
+{
+    public int Id { get; set; }
+    public string Name { get; set; }
+}
+
+// Controller
+public class StudentController : Controller
+{
+    public ActionResult Index()
+    {
+        List<Student> students = new List<Student>
+        {
+            new Student { Id = 1, Name = "Alice" },
+            new Student { Id = 2, Name = "Bob" }
+        };
+        return View(students);
+    }
+}
+
+// View (Index.cshtml)
+@model List<Student>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Students</title>
+</head>
+<body>
+    <h1>Student List</h1>
+    <ul>
+        @foreach (var student in Model)
+        {
+            <li>@student.Name</li>
+        }
+    </ul>
+</body>
+</html>
