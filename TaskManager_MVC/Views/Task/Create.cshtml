@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Create new Item";
+}
+
+@model TaskManager.Models.TaskItem
+
+<h2>Add New Task</h2>
+<form method="post">
+    <label>Title:</label>
+    <input type="text" name="Title" required />
+    <br />
+    <label>Completed:</label>
+    <input type="checkbox" name="IsCompleted" />
+    <br />
+    <button type="submit">Save</button>
+</form>
+<a href="/Task/Index">Back to List</a>
