@@ -1,0 +1,180 @@
+using System.Text;
+
+public class Program
+{
+    private string m_Username;
+    public string Username
+    {
+        get
+        {
+            return m_Username;
+        }
+        set
+        {
+            m_Username = value;
+        }
+    }
+    enum MessageSize
+    {
+        Small = 0, Medium = 1, Large = 2
+    }
+
+    private static int Add(int a, int b) { return a + b; }
+    public static void PrintHeader() { Console.WriteLine("This is a text from a method"); }
+
+    private static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, World!");
+
+        // Variable Declarations in C#
+        Console.WriteLine("Variable Declarations");
+        int x;
+        int y = 5;
+        string s;
+        string s1, s2, s3;
+        object o;
+        object obj = new object();
+        string myName = "Emin";
+        Console.WriteLine("myName String val: " + myName);
+        Console.WriteLine("");
+        // Statements
+        Console.WriteLine("Statements");
+        x = y + 5;
+        int a = 5;
+        int b = -10;
+        double c = 0.25;
+        Console.WriteLine(x);
+        Console.WriteLine(a);
+        Console.WriteLine(b);
+        Console.WriteLine(c);
+        Console.WriteLine("");
+
+        // Statements
+        Console.WriteLine("Arrays and Indexed Properties");
+        string[] course = new string[3]; course[0] = "Web"; course[1] = "Server"; course[2] = "Programming";
+        int[] arr = new int[5] { 1, 2, 3, 4, 5 };
+        int[,] mat = new int[3, 4];
+        mat[1, 3] = 1;
+        mat[2, 3] = 5;
+        char[] delimeters = new char[] { ' ', '\r', '\n' };
+
+        // Arrays
+        int[] arr2 = new int[100];
+        int[,] mat2 = new int[50, 100];
+        for (int i = 1; i <= arr.Length; i++)
+        {
+            Console.WriteLine(i + ".element : " + arr[i - 1]);
+        }
+        arr[0] = 5;
+        arr[arr.Length - 2] = 8;
+        Console.WriteLine("New Array after altering!");
+        for (int i = 1; i <= arr.Length; i++)
+        {
+            Console.WriteLine(i + ".element : " + arr[i - 1]);
+        }
+        Console.WriteLine("");
+
+        // Properties
+        var new_User = new Program();
+        new_User.Username = "ETD";
+        Console.WriteLine("User name: " + new_User.Username);
+        Console.WriteLine("");
+
+        // enum
+        MessageSize msg = MessageSize.Medium;
+        Console.WriteLine("enum val: " + msg);
+        Console.WriteLine("");
+
+        // Declaring & Calling Methods
+        int z = Add(x, y);
+        PrintHeader();
+        Console.WriteLine("Addition of x(" + x + ") and y(" + y + "): " + z);
+        Console.WriteLine("");
+
+
+        // If, Else, Else If
+        Console.WriteLine("If, Else, Else If Conditions!");
+        if (x == 1)
+            Console.WriteLine("It is 1 (one) indeed.");
+        else if (x == 2)
+            Console.WriteLine("You are right. It is 2 (two).");
+        else
+            Console.WriteLine("It should have been " + x);
+        Console.WriteLine("");
+
+        // Case Statement
+        Console.WriteLine("The result of Case Statement is here: ");
+        switch (msg)
+        {
+            case MessageSize.Small:
+                Console.WriteLine("S");
+                break;
+            case MessageSize.Medium:
+                Console.WriteLine("M");
+                break;
+            case MessageSize.Large:
+                Console.WriteLine("L");
+                break;
+            default:
+                Console.WriteLine("---");
+                break;
+        }
+        Console.WriteLine("");
+        Console.WriteLine("Foreach Loop Example:");
+        int[] new_array = new int[]{ 5, 7, 9, 10, 3};
+        foreach (int number in new_array) { Console.WriteLine(number); }
+        Console.WriteLine("");
+
+        // While Loop
+        Console.WriteLine("While Loop Example:");
+        int n = 5;
+        while (n > 0) { Console.WriteLine(n); n--; }
+        Console.WriteLine("");
+
+        // Exception Handling
+        Console.WriteLine("Exception Handling Case in action.");
+        try
+        {
+            int val1 = 5;
+            int val2 = 0;
+            int val3 = val1 / val2;
+        }
+        catch (DivideByZeroException e)
+        {
+            Console.WriteLine("Divide by zero exception occured");
+        }
+        catch (OverflowException e)
+        {
+            Console.WriteLine("Overflow exception occured");
+        }
+        finally { Console.WriteLine(""); }
+
+        // String Operations
+        Console.WriteLine("String Operations");
+        s1 = "Web";
+        s2 = "Programming";
+        s3 = s1 + " " + s2;
+        s3 += " (Server Side)";
+        
+        // Use StringBuilder class for performance:
+        StringBuilder newStr = new StringBuilder();
+        newStr.Append(s1);
+        newStr.Append(s2);
+        Console.WriteLine(s3);
+        Console.WriteLine(newStr);
+        Console.WriteLine("");
+
+        // Type Casting
+        double d = 5.4321;
+        n = (int)d;
+        Console.WriteLine(n);
+        s = n.ToString();
+        Console.WriteLine(s);
+        n = int.Parse("54321");
+        Console.WriteLine(n);
+        d = double.Parse("54.321");
+        Console.WriteLine(d);
+        Console.WriteLine("");
+    }
+}
+
