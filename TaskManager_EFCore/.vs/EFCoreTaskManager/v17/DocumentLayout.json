@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DABC477E-590A-45E8-9FDD-71AC43EEB3D6}|EFCoreTaskManager\\EFCoreTaskManager.csproj|c:\\users\\pc\\source\\repos\\efcoretaskmanager\\efcoretaskmanager\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DABC477E-590A-45E8-9FDD-71AC43EEB3D6}|EFCoreTaskManager\\EFCoreTaskManager.csproj|solutionrelative:efcoretaskmanager\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABC477E-590A-45E8-9FDD-71AC43EEB3D6}|EFCoreTaskManager\\EFCoreTaskManager.csproj|c:\\users\\pc\\source\\repos\\efcoretaskmanager\\efcoretaskmanager\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABC477E-590A-45E8-9FDD-71AC43EEB3D6}|EFCoreTaskManager\\EFCoreTaskManager.csproj|solutionrelative:efcoretaskmanager\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABC477E-590A-45E8-9FDD-71AC43EEB3D6}|EFCoreTaskManager\\EFCoreTaskManager.csproj|c:\\users\\pc\\source\\repos\\efcoretaskmanager\\efcoretaskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABC477E-590A-45E8-9FDD-71AC43EEB3D6}|EFCoreTaskManager\\EFCoreTaskManager.csproj|solutionrelative:efcoretaskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABC477E-590A-45E8-9FDD-71AC43EEB3D6}|EFCoreTaskManager\\EFCoreTaskManager.csproj|c:\\users\\pc\\source\\repos\\efcoretaskmanager\\efcoretaskmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DABC477E-590A-45E8-9FDD-71AC43EEB3D6}|EFCoreTaskManager\\EFCoreTaskManager.csproj|solutionrelative:efcoretaskmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABC477E-590A-45E8-9FDD-71AC43EEB3D6}|EFCoreTaskManager\\EFCoreTaskManager.csproj|c:\\users\\pc\\source\\repos\\efcoretaskmanager\\efcoretaskmanager\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABC477E-590A-45E8-9FDD-71AC43EEB3D6}|EFCoreTaskManager\\EFCoreTaskManager.csproj|solutionrelative:efcoretaskmanager\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABC477E-590A-45E8-9FDD-71AC43EEB3D6}|EFCoreTaskManager\\EFCoreTaskManager.csproj|c:\\users\\pc\\source\\repos\\efcoretaskmanager\\efcoretaskmanager\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABC477E-590A-45E8-9FDD-71AC43EEB3D6}|EFCoreTaskManager\\EFCoreTaskManager.csproj|solutionrelative:efcoretaskmanager\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABC477E-590A-45E8-9FDD-71AC43EEB3D6}|EFCoreTaskManager\\EFCoreTaskManager.csproj|c:\\users\\pc\\source\\repos\\efcoretaskmanager\\efcoretaskmanager\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABC477E-590A-45E8-9FDD-71AC43EEB3D6}|EFCoreTaskManager\\EFCoreTaskManager.csproj|solutionrelative:efcoretaskmanager\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABC477E-590A-45E8-9FDD-71AC43EEB3D6}|EFCoreTaskManager\\EFCoreTaskManager.csproj|c:\\users\\pc\\source\\repos\\efcoretaskmanager\\efcoretaskmanager\\views\\task\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DABC477E-590A-45E8-9FDD-71AC43EEB3D6}|EFCoreTaskManager\\EFCoreTaskManager.csproj|solutionrelative:efcoretaskmanager\\views\\task\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABC477E-590A-45E8-9FDD-71AC43EEB3D6}|EFCoreTaskManager\\EFCoreTaskManager.csproj|c:\\users\\pc\\source\\repos\\efcoretaskmanager\\efcoretaskmanager\\views\\task\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DABC477E-590A-45E8-9FDD-71AC43EEB3D6}|EFCoreTaskManager\\EFCoreTaskManager.csproj|solutionrelative:efcoretaskmanager\\views\\task\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABC477E-590A-45E8-9FDD-71AC43EEB3D6}|EFCoreTaskManager\\EFCoreTaskManager.csproj|c:\\users\\pc\\source\\repos\\efcoretaskmanager\\efcoretaskmanager\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABC477E-590A-45E8-9FDD-71AC43EEB3D6}|EFCoreTaskManager\\EFCoreTaskManager.csproj|solutionrelative:efcoretaskmanager\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABC477E-590A-45E8-9FDD-71AC43EEB3D6}|EFCoreTaskManager\\EFCoreTaskManager.csproj|c:\\users\\pc\\source\\repos\\efcoretaskmanager\\efcoretaskmanager\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DABC477E-590A-45E8-9FDD-71AC43EEB3D6}|EFCoreTaskManager\\EFCoreTaskManager.csproj|solutionrelative:efcoretaskmanager\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABC477E-590A-45E8-9FDD-71AC43EEB3D6}|EFCoreTaskManager\\EFCoreTaskManager.csproj|c:\\users\\pc\\source\\repos\\efcoretaskmanager\\efcoretaskmanager\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DABC477E-590A-45E8-9FDD-71AC43EEB3D6}|EFCoreTaskManager\\EFCoreTaskManager.csproj|solutionrelative:efcoretaskmanager\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABC477E-590A-45E8-9FDD-71AC43EEB3D6}|EFCoreTaskManager\\EFCoreTaskManager.csproj|c:\\users\\pc\\source\\repos\\efcoretaskmanager\\efcoretaskmanager\\views\\task\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DABC477E-590A-45E8-9FDD-71AC43EEB3D6}|EFCoreTaskManager\\EFCoreTaskManager.csproj|solutionrelative:efcoretaskmanager\\views\\task\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\EFCoreTaskManager\\Data\\TaskDbContext.cs",
+              "RelativeDocumentMoniker": "EFCoreTaskManager\\Data\\TaskDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\EFCoreTaskManager\\Data\\TaskDbContext.cs",
+              "RelativeToolTip": "EFCoreTaskManager\\Data\\TaskDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:41:56.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\EFCoreTaskManager\\Program.cs",
+              "RelativeDocumentMoniker": "EFCoreTaskManager\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\EFCoreTaskManager\\Program.cs",
+              "RelativeToolTip": "EFCoreTaskManager\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:37:33.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\EFCoreTaskManager\\appsettings.json",
+              "RelativeDocumentMoniker": "EFCoreTaskManager\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\EFCoreTaskManager\\appsettings.json",
+              "RelativeToolTip": "EFCoreTaskManager\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T21:45:01.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\EFCoreTaskManager\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "EFCoreTaskManager\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\EFCoreTaskManager\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "EFCoreTaskManager\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:48:48.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\EFCoreTaskManager\\Views\\Task\\Index.cshtml",
+              "RelativeDocumentMoniker": "EFCoreTaskManager\\Views\\Task\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\EFCoreTaskManager\\Views\\Task\\Index.cshtml",
+              "RelativeToolTip": "EFCoreTaskManager\\Views\\Task\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T21:48:00.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\EFCoreTaskManager\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "EFCoreTaskManager\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\EFCoreTaskManager\\Models\\Category.cs",
+              "RelativeToolTip": "EFCoreTaskManager\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:40:48.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\EFCoreTaskManager\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "EFCoreTaskManager\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\EFCoreTaskManager\\Models\\TaskItem.cs",
+              "RelativeToolTip": "EFCoreTaskManager\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:37:52.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\EFCoreTaskManager\\Views\\Task\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EFCoreTaskManager\\Views\\Task\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\EFCoreTaskManager\\Views\\Task\\Edit.cshtml",
+              "RelativeToolTip": "EFCoreTaskManager\\Views\\Task\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T22:10:03.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\EFCoreTaskManager\\Views\\Task\\Create.cshtml",
+              "RelativeDocumentMoniker": "EFCoreTaskManager\\Views\\Task\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\EFCoreTaskManager\\Views\\Task\\Create.cshtml",
+              "RelativeToolTip": "EFCoreTaskManager\\Views\\Task\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T22:01:03.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\EFCoreTaskManager\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EFCoreTaskManager\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\EFCoreTaskManager\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "EFCoreTaskManager\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:54:43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\EFCoreTaskManager\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "EFCoreTaskManager\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\EFCoreTaskManager\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "EFCoreTaskManager\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T21:53:55.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\EFCoreTaskManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "EFCoreTaskManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\EFCoreTaskManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "EFCoreTaskManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T21:53:56.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\EFCoreTaskManager\\Views\\Task\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "EFCoreTaskManager\\Views\\Task\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\EFCoreTaskManager\\EFCoreTaskManager\\Views\\Task\\Privacy.cshtml",
+              "RelativeToolTip": "EFCoreTaskManager\\Views\\Task\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T21:53:53.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
